@@ -13,7 +13,7 @@
   top: 0;
   left: 0;
   background-color: #fff;
-  border-right: 2px solid #007BFF; /* Adjust border style/color as needed */
+  border-right: 2px solid black; /* Adjust border style/color as needed */
   display: flex;
   flex-direction: column;
   padding: 20px;
